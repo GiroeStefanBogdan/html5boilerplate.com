@@ -1,4 +1,8 @@
+#Ignore file
 dist
 node_modules
 src/css/main.css
 /credentials.py
+
+#Ignore folder 
+text/*.txt
